@@ -172,7 +172,7 @@ The following table describes the changes to each release of the Android client 
 | Release | Date | Changes | 
 | --- | --- | --- | 
 |  2\.4\.18  | September 30, 2020 |  + Adds support for certain Chromebook models that were previously not supported 
-                                     + Fixes multiple key mapping issues pertaining to English, French and Japenese keyboard layouts 
+                                     + Fixes multiple key mapping issues pertaining to English, French and Japanese keyboard layouts 
 									 + Adds support for faster reconnection to WorkSpaces on Chromebook devices resuming from sleep mode | 
 |  2\.4\.17  | February 24, 2020 |  Minor bug fixes and enhancements  | 
 |  2\.4\.16  | January 30, 2020 |  Adds 64\-bit support for Android 9 and 10  | 
