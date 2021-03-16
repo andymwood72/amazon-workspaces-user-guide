@@ -3,8 +3,8 @@
 The following printing methods are supported by Amazon WorkSpaces\.
 
 **Note**  
-The Amazon WorkSpaces clients for iPad, Android, Chromebook, and Linux support cloud printing services\. Local and network printing are not currently supported for the iPad, Android, Chromebook, and Linux clients\.  
-Amazon Linux WorkSpaces support network printers and cloud printing services\. Local printer redirection is not available for Linux WorkSpaces or the Linux client\. 
+The Amazon WorkSpaces clients for iPad, Android, Chromebook, WebAccess and Linux support network and cloud printing services\. Local printing is not currently supported for the iPad, Android, Chromebook, WebAccess and Linux clients\.  
+
 
 **Topics**
 + [Local Printers](#local_printers)
